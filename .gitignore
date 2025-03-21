@@ -1,0 +1,31 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+*.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment
+venv/
+env/
+*.egg-info/
+
+# Logs
+logs/
+*.log
+
+# VSCode
+.vscode/
+
+# Data and models
+data/processed/*
+data/embeddings/*
+*.ckpt
+*.pt
+*.bin
